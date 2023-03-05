@@ -1,3 +1,4 @@
+![need-for-speed](https://user-images.githubusercontent.com/44240533/222984354-0177abc9-1e1d-4606-b9bc-7b6ec32ce686.svg)
 # Need for Speed
 
 Welcome to Need for Speed on Exercism's Java Track.
